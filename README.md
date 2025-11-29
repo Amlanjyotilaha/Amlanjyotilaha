@@ -1,8 +1,6 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/7771518f-263a-48ac-8e6b-9e5990fd3f12" alt="Amlanjyoti Laha Profile Picture" width="150"/>
-
-    ## 👋 Hi, I'm Amlanjyoti Laha
-    ### Data Analyst | Transforming Data into Actionable Business Growth
+    <h2>👋 Hi, I'm Amlanjyoti Laha</h2>
+    <h3>Data Analyst | Transforming Data into Actionable Business Growth</h3>
 </div>
 
 ---
