@@ -21,12 +21,13 @@ With a B.Tech in Electronics and Communications Engineering (CGPA: 8.55), I effe
 | Category | Skills |
 | :--- | :--- |
 | **Programming** | Python (Pandas, NumPy) |
-| **Databases & ETL** | SQL (Database Administration, Design, and DBMS), Data Warehousing |
+| **Databases & ETL** | **Snowflake**, SQL (Database Administration, Design, and DBMS), Data Warehousing |
 | **Analytics Tools** | MS Power BI, Zoho Analytics, Advanced Dashboard Development |
 | **Cloud/ML** | Supervised Machine Learning, AWS (Data Warehouse) |
 | **Core Skills** | Data Analysis, Stakeholder Management, Strategic Planning, Business Development |
 
 <div align="center">
+    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Badge">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI Badge">
@@ -71,6 +72,8 @@ With a B.Tech in Electronics and Communications Engineering (CGPA: 8.55), I effe
 
 ## 🎓 Certifications
 
+* **Hands-On Essentials: Data Warehousing Workshop**
+    * By Snowflake | [View Certificate](https://achieve.snowflake.com/8bbdc963-fe4b-4816-9f55-62fdaf771488#acc.E36oIplq)
 * **Supervised Machine Learning Regression and Classification**
     * By DeepLearning.AI, Stanford University | [View Certificate](https://coursera.org/share/45390ea87e6629b8f0e2e1f2abc9d7c4)
 * **Microsoft Power BI for Business Intelligence**
