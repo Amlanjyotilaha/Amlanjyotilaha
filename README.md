@@ -74,6 +74,8 @@ With a B.Tech in Electronics and Communications Engineering (CGPA: 8.55), I effe
 
 * **Hands-On Essentials: Data Application Builders Workshop**
     * By Snowflake | [View Certificate](https://achieve.snowflake.com/c6bdf923-1ee2-4759-b362-0e8eaa3ec945#acc.BjDCSbeh)
+* **Hands-On Essentials: Collaboration, Marketplace & Cost Estimation Workshop**
+    * By Snowflake | [View Certificate](https://achieve.snowflake.com/0bcc9a1d-5d6d-47dd-9ebb-688da7d9c753#acc.zFDhi5mN)
 * **Hands-On Essentials: Data Warehousing Workshop**
     * By Snowflake | [View Certificate](https://achieve.snowflake.com/8bbdc963-fe4b-4816-9f55-62fdaf771488#acc.E36oIplq)
 * **Supervised Machine Learning Regression and Classification**
