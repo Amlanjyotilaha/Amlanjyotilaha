@@ -7,7 +7,7 @@
 
 ## 🎯 About Me
 
-"As a **Data Analyst**, I harness the power of data to optimise processes, enhance applications, and drive meaningful solutions. My technical expertise in data analysis, combined with strong problem-solving, analytical, and communication skills, helps uncover actionable insights that lead to growth and innovation."
+As a **Data Analyst**, I harness the power of data to optimise processes, enhance applications, and drive meaningful solutions. My technical expertise in data analysis, combined with strong problem-solving, analytical, and communication skills, enables me to uncover actionable insights that drive growth and innovation.
 
 With a B.Tech in Electronics and Communications Engineering (CGPA: 8.55), I effectively **bridge the gap** between technical data insights and impactful business decisions.
 
@@ -55,7 +55,7 @@ With a B.Tech in Electronics and Communications Engineering (CGPA: 8.55), I effe
 **Pneucis Robotics | Co-Founder & Head of Marketing and Procurement | Feb 2018 - Mar 2023**
 
 * **Sales Analysis & ROI:** Designed comprehensive **Power BI dashboards** for sales forecasting and ROI prediction, implementing models using **SQL** and **Python** to optimise supply chain decisions.
-* **Robotics Development:** Led development of automated robotic arm for industrial sorting using computer vision.
+* **Robotics Development:** Led development of an automated robotic arm for industrial sorting using computer vision.
 
 ---
 
@@ -64,7 +64,7 @@ With a B.Tech in Electronics and Communications Engineering (CGPA: 8.55), I effe
 * 🔗 **Internal Operations System** (Deshpande Foundation)
     * Automated reimbursement workflows with **SQL, Python, and Power BI**, coordinating with teams to ensure data accuracy and process efficiency.
 * 🔗 **Agritech Development** (Deshpande Foundation, Microsoft, Infosys)
-    * Enhanced Farm Pond applications, implemented **centralised data warehouse**, and mentored team members on data-driven approaches.
+    * Enhanced Farm Pond applications, implemented a **centralised data warehouse**, and mentored team members on data-driven approaches.
 * 🔗 **E-commerce Analytics** (Pneucis Robotics)
     * Designed end-to-end **Power BI dashboards** for sales analysis and implemented forecasting models.
 
