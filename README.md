@@ -28,12 +28,15 @@ With a B.Tech in Electronics and Communications Engineering (CGPA: 8.55), I effe
 
 <div align="center">
     <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Badge">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI Badge">
     <img src="https://img.shields.io/badge/Zoho_Analytics-F34950?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Analytics Badge">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge">
     <img src="https://img.shields.io/badge/Machine_Learning-FF6A00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Badge">
+    <img src="https://img.shields.io/badge/BRD-Business%20Requirements-0052CC?style=for-the-badge" alt="BRD">
+    <img src="https://img.shields.io/badge/SRS-System%20Requirements-36B37E?style=for-the-badge" alt="SRS">
+    <img src="https://img.shields.io/badge/Data_Architecture-FF5630?style=for-the-badge" alt="Data Architecture">
 </div>
 
 ---
