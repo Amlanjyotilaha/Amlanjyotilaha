@@ -1,15 +1,15 @@
 <div align="center">
     <h2>👋 Hi, I'm Amlanjyoti Laha</h2>
-    <h3>Data Analyst | Transforming Data into Actionable Business Growth</h3>
+    <h3>Data Analyst & Business Analyst | Transforming Data into Actionable Business Growth</h3>
 </div>
 
 ---
 
 ## 🎯 About Me
 
-As a **Data Analyst**, I harness the power of data to optimise processes, enhance applications, and drive meaningful solutions. My technical expertise in data analysis, combined with strong problem-solving, analytical, and communication skills, enables me to uncover actionable insights that drive growth and innovation.
+As a **Data & Business Analyst**, I harness the power of data to optimise processes, enhance applications, and drive meaningful solutions. My technical expertise in data analysis and business requirements documentation, combined with strong problem-solving, analytical, and communication skills, enables me to uncover actionable insights that drive growth and innovation.
 
-With a B.Tech in Electronics and Communications Engineering (CGPA: 8.55), I effectively **bridge the gap** between technical data insights and impactful business decisions.
+With a B.Tech in Electronics and Communications Engineering (CGPA: 8.55), I effectively **bridge the gap** between technical data insights and impactful business decisions — from authoring production-grade **BRDs and SRS documents** to building end-to-end analytics infrastructure.
 
 ### 🌐 My Portfolio Website
 [http://amlanjyoti-laha-04omwcf.gamma.site/](http://amlanjyoti-laha-04omwcf.gamma.site/)
@@ -21,10 +21,11 @@ With a B.Tech in Electronics and Communications Engineering (CGPA: 8.55), I effe
 | Category | Skills |
 | :--- | :--- |
 | **Programming** | Python (Pandas, NumPy) |
-| **Databases & ETL** | **Snowflake**, SQL (Database Administration, Design, and DBMS), Data Warehousing |
+| **Databases & ETL** | Snowflake, SQL (Database Administration, Design, and DBMS), Data Warehousing |
 | **Analytics Tools** | MS Power BI, Zoho Analytics, Advanced Dashboard Development |
 | **Cloud/ML** | Supervised Machine Learning, AWS (Data Warehouse) |
-| **Core Skills** | Data Analysis, Stakeholder Management, Strategic Planning, Business Development |
+| **Business Analysis** | BRD, SRS, Use Case Documentation, Requirement Gathering, Process Mapping, Workflow Design, Approval Matrix Design, Stakeholder Management |
+| **Core Skills** | Data Analysis, Strategic Planning, Business Development, Solution Design |
 
 <div align="center">
     <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Badge">
@@ -46,30 +47,32 @@ With a B.Tech in Electronics and Communications Engineering (CGPA: 8.55), I effe
 ### **Deshpande Foundation**
 **Data Analyst | September 2024 - Present**
 
-* **Expense Ticketing System:** Designed and developed automated reimbursement and procurement workflows using SQL and Python, delivering **Power BI insights** to improve operational efficiency and accuracy.
-* **Agritech Solutions:** Led technical efforts to enhance Farm Pond and Beneficiary Outreach systems, designing databases and **data warehouses** whilst building **Power BI dashboards** for improved farm productivity and water management.
+* **Expense Ticketing System:** Authored **BRD and SRS (v1.0)** covering **9 stakeholder roles**, 3 ticket types (Reimbursement, Procurement, Advance), approval matrices, and a **50+ table schema** — serving as the single source of truth for development and QA teams. Designed and developed automated reimbursement and procurement workflows using SQL and Python, delivering **Power BI dashboards** saving ~3 hours of manual reporting per week.
+* **Agritech & Beneficiary Outreach:** Authored **BRD and SRS (v1.0)** for the DF Reach System defining functional requirements for **200,000+ beneficiary records** across program enrolment, role-based access, and audit workflows for **3 user roles**. Led technical efforts to enhance Farm Pond systems, restructured a **600-table schema down to 100 active tables**, built a data warehouse in **2 months** reducing query time by **~40%**, and delivered **Power BI dashboards** for farm productivity and water management.
 
 ### **Consulting Experience**
 **Consultant Data Analyst | June 2024 - August 2024**
 
-* **Skilling Programme Analysis:** Analysed attendance, performance, and trainer data for Deshpande Education Trust's Skilling programme. Built advanced **Zoho Analytics dashboards** to track KPIs and guide strategy, delivering insights through presentations whilst managing stakeholders.
+* **Skilling Programme Analysis:** Analysed attendance, performance, and trainer data across **5,000+ participants** for Deshpande Education Trust. Built **6–10 Zoho Analytics dashboards** replacing manual Excel reporting and saving **~4–5 hours per week**, delivering insights to **4–10 senior decision-makers** that directly informed strategy for the next program cycle.
 
 ### **Entrepreneurial Journey**
 **Pneucis Robotics | Co-Founder & Head of Marketing and Procurement | Feb 2018 - Mar 2023**
 
-* **Sales Analysis & ROI:** Designed comprehensive **Power BI dashboards** for sales forecasting and ROI prediction, implementing models using **SQL** and **Python** to optimise supply chain decisions.
+* **Sales Analysis & ROI:** Built **3–5 sales forecasting and ROI models** using SQL, Power BI, and Python — reducing **R&D costs by 25–50%** and enabling data-backed procurement decisions across quarterly planning cycles.
 * **Robotics Development:** Led development of an automated robotic arm for industrial sorting using computer vision.
 
 ---
 
 ## 🏆 Key Projects
 
-* 🔗 **Internal Operations System** (Deshpande Foundation)
-    * Automated reimbursement workflows with **SQL, Python, and Power BI**, coordinating with teams to ensure data accuracy and process efficiency.
-* 🔗 **Agritech Development** (Deshpande Foundation, Microsoft, Infosys)
-    * Enhanced Farm Pond applications, implemented a **centralised data warehouse**, and mentored team members on data-driven approaches.
+* 🔗 **DF Ticketing System — BRD & SRS** (Deshpande Foundation)
+    * Authored end-to-end BA documentation covering **9 stakeholder roles**, 3 ticket types, approval matrices, and a **50+ table database schema** for a live reimbursement and procurement platform.
+* 🔗 **DF Reach System — BRD & SRS** (Deshpande Foundation)
+    * Authored BRD and SRS defining requirements for **200,000+ beneficiary records** across program enrolment, geographical data, and role-based access for **3 user roles**.
+* 🔗 **Agritech Data Infrastructure** (Deshpande Foundation, Microsoft, Infosys)
+    * Restructured **600-table schema to 100 active tables**, built a centralised data warehouse cutting query time by **~40%**, and managed data for **200,000+ farmers**.
 * 🔗 **E-commerce Analytics** (Pneucis Robotics)
-    * Designed end-to-end **Power BI dashboards** for sales analysis and implemented forecasting models.
+    * Built forecasting and ROI models reducing **R&D costs by 25–50%** across a 5-year tenure.
 
 ---
 
